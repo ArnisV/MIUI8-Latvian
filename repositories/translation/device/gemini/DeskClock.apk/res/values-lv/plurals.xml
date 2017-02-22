@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d stundas "</item>
+        <item quantity="one">"%1$d stunda "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minūtes "</item>
+        <item quantity="one">"%1$d minūte "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d sekundes</item>
+        <item quantity="one">%1$d sekunde</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d sekundes</item>
+        <item quantity="one">1 sekunde</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minūtes</item>
+        <item quantity="one">1 minūte</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Atlikt uz %d min.</item>
+        <item quantity="one">Atlikt uz %d min.</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Atlikt uz %d minuūtēm</item>
+        <item quantity="one">Atlikt uz %d minūti</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Alarms will silence after %d minutes</item>
+        <item quantity="one">Alarms will silence after %d minute</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Dzēst izvēlētos modinātājus?</item>
+        <item quantity="one">Dzēst modinātāju?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Dzēst izvēlētās laika zonas?</item>
+        <item quantity="one">Dzēst šō laika zonu?</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_d">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_e">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_f">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_10">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_11">false</item>
+</resources>

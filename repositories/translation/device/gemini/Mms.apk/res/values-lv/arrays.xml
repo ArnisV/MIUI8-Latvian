@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="contact_entries">
+        <item>Vārds</item>
+        <item>Niks</item>
+        <item>Tālrunis</item>
+        <item>E-Pasts</item>
+        <item>Organization</item>
+        <item>IM</item>
+        <item>SIP Numurs</item>
+        <item>Dzimšanas Diena</item>
+        <item>Web lappa</item>
+        <item>Adrese</item>
+        <item>Piezīme</item>
+        <item>Atiecības</item>
+    </string-array>
+     <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+     <string-array name="prefEntries_ringtone_repeat">
+        <item>Vienu reizi</item>
+        <item>Divas reizes</item>
+        </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Trīs reizes</item>
+        <item>Piecas reizes</item>
+        <item>Desmit reizes</item>
+     <item>12 stundas</item>
+        <item>1 diena</item>
+        <item>Maksimum</item>
+    </string-array>
+     <string-array name="prefEntries_vibrateWhen">
+        <item>Vienmēr</item>
+        <item>Tikai bez skaņas</item>
+        <item>Nekad</item>
+     </string-array>
+     <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Ziņojums</item>
+     </string-array>
+     <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Ziņojums</item>
+     </string-array>
+     <string-array name="select_dialog_items">
+        <item>1 sekunde</item>
+        <item>2 sekundes</item>
+        <item>3 sekundes</item>
+        <item>4 sekundes</item>
+        <item>5 sekundes</item>
+        <item>6 sekundes</item>
+        <item>7 sekundes</item>
+        <item>8 sekundes</item>
+        <item>9 sekundes</item>
+        <item>10 sekundes</item>
+        <item>Cits</item>
+     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Visi ziņojumi</item>
+        <item>Izvēlētās SIM-kartes</item>
+    </string-array>
+</resources>

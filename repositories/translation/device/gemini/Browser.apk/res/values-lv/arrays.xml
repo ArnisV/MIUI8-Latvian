@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="baidu">
+        <item>Baidu</item>
+        <item>baidu.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Balts</item>
+        <item>Dzeltens</item>
+        <item>pelēks</item>
+        <item>Brūns</item>
+        <item>Zaļš</item>
+        <item>Zils</item>
+     </string-array>
+     <string-array name="pref_content_plugins_choices">
+        <item>Vienmēr ieslēgts</item>
+        <item>Pēc pieprasījuma</item>
+        <item>Izslēgts</item>
+     </string-array>
+     <string-array name="pref_data_preload_choices">
+        <item>Nekad</item>
+        <item>Tikai ar WLAN</item>
+        <item>Vienmēr</item>
+     </string-array>
+     <string-array name="pref_default_zoom_choices">
+        <item>Mazs</item>
+        <item>Vidējs</item>
+        <item>Liels</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_choices">
+        <item>Lappu uz priekšu/atpakaļ</item>
+        <item>Mainīt logu</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Noklusētā sākuma lappa</item>
+        <item>Pielāgoti</item>
+     </string-array>
+     <string-array name="pref_images_preload_choices">
+        <item>Nekad</item>
+        <item>Tikai ar WLAN</item>
+        <item>Viemēr</item>
+     </string-array>
+     <string-array name="pref_link_prefetch_choices">
+        <item>Nekad</item>
+        <item>Tikai ar WLAN</item>
+        <item>Vienmēr</item>
+     </string-array>
+     <string-array name="pref_text_size_choices">
+        <item>Smalks</item>
+        <item>Mazs</item>
+        <item>Normāls</item>
+        <item>Liels</item>
+        <item>Gigantisks</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Smalks</item>
+        <item>Mazs</item>
+        <item>Normāls</item>
+        <item>Liels</item>
+        <item>Gigantisks</item>
+     </string-array>
+     <string-array name="pref_video_preload_choices">
+        <item>Nekad</item>
+        <item>Tikai ar WLAN</item>
+        <item>Vienmēr</item>
+     </string-array>
+     <string-array name="pref_volume_key_choices">
+        <item>Iepriekšējā lappa/Nākamā lappa</item>
+        <item>Iepriekšējā cilne/Nākamā cilne</item>
+     </string-array>
+     <string-array name="search_bar_search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>google</item>
+        <item>shipin</item>
+        <item>tupian</item>
+     </string-array>
+     <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>google</item>
+        <item>bing_zh_CN</item>
+     </string-array>
+</resources>

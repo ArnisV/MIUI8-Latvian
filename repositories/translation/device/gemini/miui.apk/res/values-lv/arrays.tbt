@@ -1,0 +1,38 @@
+    <string-array name="am_pms">
+    </string-array>
+    <string-array name="chinese_days">
+    </string-array>
+    <string-array name="chinese_digits">
+    </string-array>
+    <string-array name="chinese_leap_months">
+    </string-array>
+    <string-array name="chinese_months">
+    </string-array>
+    <string-array name="chinese_symbol_animals">
+    </string-array>
+    <string-array name="contact_infotype_entries">
+    </string-array>
+    <string-array name="detailed_am_pms">
+    </string-array>
+    <string-array name="earthly_branches">
+    </string-array>
+    <string-array name="eras">
+    </string-array>
+    <string-array name="heavenly_stems">
+    </string-array>
+    <string-array name="months">
+    </string-array>
+    <string-array name="months_short">
+    </string-array>
+    <string-array name="months_shortest">
+    </string-array>
+    <string-array name="preloaded_drawables">
+    </string-array>
+    <string-array name="solar_terms">
+    </string-array>
+    <string-array name="week_days">
+    </string-array>
+    <string-array name="week_days_short">
+    </string-array>
+    <string-array name="week_days_shortest">
+    </string-array>

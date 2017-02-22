@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tiko</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tiko</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Uzreiz</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Uzreiz</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pirms stundas</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pirms pus stundas</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pirms stundas</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pirms pus stundas</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Pēc stundas</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Pēc pus stundas</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Pēc stundas</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Pēc pus stundas</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pirms %d min</item>
+        <item quantity="one">pirms 1 min</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">pirms %d minūtēm</item>
+        <item quantity="one">Pirms 1 minūtes</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">pēc %d min</item>
+        <item quantity="one">pēc 1 min</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="one">mazāk kā minūte</item>
+    </plurals>
+</resources>

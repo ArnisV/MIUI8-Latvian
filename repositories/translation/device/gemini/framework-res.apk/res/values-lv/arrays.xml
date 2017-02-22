@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Privāta</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Mājas</item>
+        <item>Mobilais</item>
+        <item>Darbā</item>
+        <item>Faksa numurs darbā</item>
+        <item>Faksa numurs mājās</item>
+        <item>Peidžers</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Mājas</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>English (US)</item>
+        <item>English (United Kingdom)</item>
+        <item>Deutsch (Deutschland)</item>
+        <item>Русский (Россия)</item>
+        <item>Українська (Україна)</item>
+        <item>Беларуская (Беларусь)</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Пытается включить/выключить Wi-Fi</item>
+        <item>Пытается включить/выключить bluetooth</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.android.location.fused</item>
+        <item>com.google.android.gms</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, сначала необходимо подключить эту услугу у оператора. Затем снова включите Wi-Fi звонки в настройках.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Зарегистрируйтесь через оператора</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Wi-Fi звонки (%s)</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Reserved0</item>
+        <item>Reserved1</item>
+        <item>Поместите свой палец на сканер</item>
+        <item>Поместите палец полностью на сканер</item>
+        <item>Уберите палец1 и накройте сканер полностью</item>
+        <item>Уберите палец2 и накройте сканер полностью</item>
+        <item>Reserved6</item>
+        <item>Reserved7</item>
+        <item>Reserved8</item>
+        <item>Reserved9</item>
+        <item>Reserved10</item>
+        <item>Reserved11</item>
+        <item>Reserved12</item>
+        <item>Поместите свой палец3 прямо на сканер</item>
+        <item>Перемещайте палец4 слегка между сканированиями</item>
+        <item>Уберите палец5</item>
+        <item>Держите палец6 на сканере дольше</item>
+        <item>Reserved17</item>
+        <item>Reserved18</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Mājas</item>
+        <item>Darbā</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+</resources>

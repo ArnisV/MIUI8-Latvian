@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Media serveris</string>
+  <string name="cancel">Atcelt</string>
+  <string name="enable_wifi_btn">Ieslēgt</string>
+  <string name="enable_wifi_message">Turn on WLAN to search and connect nearby devices.</string>
+  <string name="enable_wifi_title">Ieslēgt WLAN</string>
+  <string name="media_feature_projection">Ekrāna spoguļošana</string>
+  <string name="media_status_error">Kļūda</string>
+  <string name="media_status_started">Savienots</string>
+  <string name="media_status_starting">Savienojas…</string>
+  <string name="media_status_stopped">Apstādināts</string>
+  <string name="media_status_stopping">Apstādina…</string>
+  <string name="noti_projection_status_desc_on">Ekrāna spoguļošana ir ieslēgta</string>
+  <string name="noti_projection_status_title">Mi Play Bezvdu Ekrāns</string>
+  <string name="prjection_title">Bezvadu ekrāns</string>
+  <string name="search_for_devices">Atsvaidzināt</string>
+  <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+  <string name="wifi_display_certification_heading">Sertifikācija</string>
+  <string name="wifi_display_details">Ekrāna iestatījumi</string>
+  <string name="wifi_display_enable_menu_item">Ieslēgt Bezvadu ekrānu</string>
+  <string name="wifi_display_listen_channel">Klausīties kanālu</string>
+  <string name="wifi_display_listen_mode">Iespējot klausīšanāš režīmu</string>
+  <string name="wifi_display_no_devices_found">"Tuvumā nav nevienas ierīces."</string>
+  <string name="wifi_display_operating_channel">Darbības kanāls</string>
+  <string name="wifi_display_options_done">Gatavs</string>
+  <string name="wifi_display_options_forget">Aizmirst</string>
+  <string name="wifi_display_options_name">Nosaukums</string>
+  <string name="wifi_display_options_title">Bezvadu ekrāna iespējas</string>
+  <string name="wifi_display_pause">Pauze</string>
+  <string name="wifi_display_resume">Atsākt</string>
+  <string name="wifi_display_session_info">Sesijas informācija</string>
+  <string name="wifi_display_settings_title">Pārraide</string>
+  <string name="wifi_display_status_connected">Savienots</string>
+  <string name="wifi_display_status_connecting">Savienojas</string>
+  <string name="wifi_display_status_in_use">Tiek lietots</string>
+  <string name="wifi_display_status_not_available">Nav pieejams</string>
+  <string name="wifi_display_wps_config">WPS konfigurācija</string>
+</resources>

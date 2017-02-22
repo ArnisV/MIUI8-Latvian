@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanē…</item>
+        <item>CSavienojas…</item>
+        <item>Autorizācija…</item>
+        <item>Iegst IP adresi…</item>
+        <item>Savienots</item>
+        <item>Apturēts</item>
+        <item>Atvieno…</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+        <item>Bloķēts</item>
+        <item>Uz laiku izvairīties no slikta savienojuma</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skanē…</item>
+        <item>Savienojas ar %1$s…</item>
+        <item>Autorizācija ar %1$s…</item>
+        <item>Iegūst IP adresi no %1$s…</item>
+        <item>Savienots ar %1$s</item>
+        <item>Apturēts</item>
+        <item>Atvienots no %1$s…</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+        <item>Bloķēts</item>
+        <item>Uz laiku izvairīties no slikta savienojuma</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nekad nepārbaudīt</item>
+        <item>Pārbaudīt tikai uz DRM saturu</item>
+        <item>Vienmēr pārbaudīt</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Atslēgts</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Atslēgts</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Atslēgts</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animācija atslēgta</item>
+        <item>Ātra</item>
+        <item>Parasta</item>
+        <item>Palēnināta</item>
+        <item>Lēna</item>
+        <item>Ļoti lēna</item>
+        <item>Vislēnākā</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animācija atslēgta</item>
+        <item>Ātra</item>
+        <item>Parasta</item>
+        <item>Palēnināta</item>
+        <item>Lēna</item>
+        <item>Ļoti lēna</item>
+        <item>Vislēnākā</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animācija atslēgta</item>
+        <item>Ātra</item>
+        <item>Parasta</item>
+        <item>Palēnināta</item>
+        <item>Lēna</item>
+        <item>Ļoti lēna</item>
+        <item>Vislēnākā</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nav</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Uzlāde</item>
+        <item>MTP (Multimēdijas nosūtsanas protokols)</item>
+        <item>PTP (Bilžu nosūtsanas protokols)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Ļodi lēni</item>
+        <item>Lēni</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Neitrālas</item>
+        <item>Standarta</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="multi_window_pkgs_whitelist">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.miui.video</item>
+        <item>com.sina.weibo</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.qiyi.video</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.facebook.katana</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.UCMobile</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.taobao.taobao</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.miui.weather2</item>
+        <item>com.xiaomi.shop</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Saulains</item>
+        <item>Mākoņains</item>
+        <item>Apmācies</item>
+        <item>Miglains</item>
+        <item>Stipra lietusgāze</item>
+        <item>Stiprs lietus</item>
+        <item>Lietus ar vētru</item>
+        <item>Pērkons</item>
+        <item>Smīlā</item>
+        <item>Stiprs lietus</item>
+        <item>Mērens lietus</item>
+        <item>Lietus</item>
+        <item>Slapjšs sniegs</item>
+        <item>Putenis</item>
+        <item>Sniegs</item>
+        <item>Stipra snigšana</item>
+        <item>Mērens sniegs</item>
+        <item>Sniegs ar vēju</item>
+        <item>Spēcīgasmilšu vētra</item>
+        <item>Smilšu vētra</item>
+        <item>Smilšains</item>
+        <item>Vējains</item>
+        <item>Krusa</item>
+        <item>Putekļi</item>
+        <item>Dūmaka</item>
+        <item>Lietus ar sniegu</item>
+        <item>Nav datu</item>
+    </string-array>
+</resources>

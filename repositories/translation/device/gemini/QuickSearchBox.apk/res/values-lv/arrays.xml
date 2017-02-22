@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="switch_prompt_content">
+        <item quantity="other">Tu neatļāvi meklēt %d el.</item>
+        <item quantity="one">Tu neatļāvi meklēt %d el.</item>
+        </plurals>
+    </resources>

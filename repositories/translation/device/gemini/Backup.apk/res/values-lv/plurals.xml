@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+</resources>

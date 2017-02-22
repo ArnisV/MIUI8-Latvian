@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d Pēdējās lietotnes</item>
+        <item quantity="one">1 pēdējā lietotne</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Slēpt %d lietotnes paziņojumus?"</item>
+        <item quantity="one">"Slēpt šīs lietotnes paziņojumus?"</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Skaidrs</item>
+        <item quantity="one">Saulains</item>
+    </plurals>
+</resources>

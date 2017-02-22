@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">Pirms %d min.</item>
+        <item quantity="one">Pirms %d min.</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">Pirms %d stundām</item>
+        <item quantity="one">Pirms %d stundas</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">Pirms %d dienām</item>
+        <item quantity="one">Pirms %d dienas</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Clear</item>
+        <item quantity="one">Clear</item>
+    </plurals>
+</resources>

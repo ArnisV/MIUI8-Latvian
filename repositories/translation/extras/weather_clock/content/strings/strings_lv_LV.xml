@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="date_time">EEEE, d MMMM</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', нажмите 2 раза для входа в часы'</string>
+    <string name="weather_type_0">Skaidrs</string>
+    <string name="weather_type_1">Mākoņains</string>
+    <string name="weather_type_2">Apmācies</string>
+    <string name="weather_type_3">Migla</string>
+    <string name="weather_type_4">Smaga lietus gāze</string>
+    <string name="weather_type_5">Vētra</string>
+    <string name="weather_type_6">Lietus gāze</string>
+    <string name="weather_type_7">Pērkons</string>
+    <string name="weather_type_8">Smīlā</string>
+    <string name="weather_type_9">Stiprs lietus</string>
+    <string name="weather_type_10">Lietus</string>
+    <string name="weather_type_11">Neliels lietus</string>
+    <string name="weather_type_12">Sniegs ar lietu</string>
+    <string name="weather_type_13">Sniegputenis</string>
+    <string name="weather_type_14">Sniegs</string>
+    <string name="weather_type_15">Stipri snieg</string>
+    <string name="weather_type_16">Snieg</string>
+    <string name="weather_type_17">Neliels sniegs</string>
+    <string name="weather_type_18">Smtipra smilšu vētra</string>
+    <string name="weather_type_19">Smilšu vētra</string>
+    <string name="weather_type_20">Mēreni putekļains</string>
+    <string name="weather_type_21">Vējains</string>
+    <string name="weather_type_22">Krusa</string>
+    <string name="weather_type_23">Putekļi</string>
+    <string name="weather_type_24">Dūmaka</string>
+</resources>
