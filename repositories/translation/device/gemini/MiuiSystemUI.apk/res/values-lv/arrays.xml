@@ -3,7 +3,7 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Skanē…</item>
-        <item>CSavienojas…</item>
+        <item>Savienojas…</item>
         <item>Autorizācija…</item>
         <item>Iegst IP adresi…</item>
         <item>Savienots</item>
@@ -221,7 +221,7 @@
         <item>Stiprs lietus</item>
         <item>Mērens lietus</item>
         <item>Lietus</item>
-        <item>Slapjšs sniegs</item>
+        <item>Slapjš sniegs</item>
         <item>Putenis</item>
         <item>Sniegs</item>
         <item>Stipra snigšana</item>
