@@ -751,56 +751,8 @@ Iemesls: \"%s\""</string>
      <string name="noContactHelpTextAccountsInfo" />
      <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data from Mi Account</string>
      <string name="noContacts">No contacts</string>
-     <string name="noContactsHelpText">You don't have any contacts to display.
-
-To add contacts, touch <b><font fgcolor="#ffffffff">Menu</b></font>, then touch:
- 
-<b><font fgcolor="#ffffffff"><li>Accounts</b></font> to add or set up an account with contacts you can sync to the phone
-</li> 
-<b><font fgcolor="#ffffffff"><li>New contact</b></font> to create a new contact from scratch
-</li> 
-<b><font fgcolor="#ffffffff"><li>Import/Export</b></font> to import contacts from your SIM or SD card
-</li>
-</string>
-     <string name="noContactsHelpTextForCreateShortcut">You don&apos;t have any contacts to display.</string>
-     <string name="noContactsHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch <b><font fgcolor="#ffffffff">Menu</b></font>, then touch:
- 
-<b><font fgcolor="#ffffffff"><li>Accounts</b></font> to add or set up an account with contacts you can sync to the phone
-</li> 
-<b><font fgcolor="#ffffffff"><li>Display options</b></font> to change which contacts are visible
-</li> 
-<b><font fgcolor="#ffffffff"><li>New contact</b></font> to create a new contact from scratch
-</li> 
-<b><font fgcolor="#ffffffff"><li>Import/Export</b></font> to import contacts from your SIM or SD card
-</li>
-</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">You don&apos;t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
-     <string name="noContactsNoSimHelpText">You don't have any contacts to display.
-
-To add contacts, touch <b><font fgcolor="#ffffffff">Menu</b></font>, then touch:
- 
-<b><font fgcolor="#ffffffff"><li>Accounts</b></font> to add or set up an account with contacts you can sync to the phone
-</li> 
-<b><font fgcolor="#ffffffff"><li>New contact</b></font> to create a new contact from scratch
-</li> 
-<b><font fgcolor="#ffffffff"><li>Import/Export</b></font> to import contacts from your SD card
-</li>
-</string>
-     <string name="noContactsNoSimHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch <b><font fgcolor="#ffffffff">Menu</b></font>, then touch:
- 
-<b><font fgcolor="#ffffffff"><li>Accounts</b></font> to add or set up an account with contacts you can sync to the phone
-</li> 
-<b><font fgcolor="#ffffffff"><li>Display options</b></font> to change which contacts are visible
-</li> 
-<b><font fgcolor="#ffffffff"><li>New contact</b></font> to create a new contact from scratch
-</li> 
-<b><font fgcolor="#ffffffff"><li>Import/Export</b></font> to import contacts from your SD card
-</li>
-</string>
+     <string name="noContactsHelpTextForCreateShortcut">You don't have any contacts to display.</string>
+     <string name="noContactsHelpTextWithSyncForCreateShortcut">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
      <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
      <string name="noFavoritesHelpText">You don't have any favorites.
 

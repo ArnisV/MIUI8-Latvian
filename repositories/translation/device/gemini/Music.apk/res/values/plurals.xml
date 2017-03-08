@@ -25,8 +25,8 @@
         <item quantity="one">Delete %d playlist?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d new</item>
-        <item quantity="one">1 new</item>
+        <item quantity="other">%d jaunas</item>
+        <item quantity="one">1 jauna</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d songs</item>
@@ -41,8 +41,8 @@
         <item quantity="one">%d artist</item>
     </plurals>
     <plurals name="Ngroups_count">
-        <item quantity="other">%d bands</item>
-        <item quantity="one">%d band</item>
+        <item quantity="other">%d grupas</item>
+        <item quantity="one">%d grupa</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Delete %d songs?</item>
@@ -85,7 +85,7 @@
         <item quantity="one">Song has been favorited.</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
+        <item quantity="other">%d komentāriji</item>
         <item quantity="one">%d comment</item>
     </plurals>
     <plurals name="reader_count">
