@@ -107,7 +107,7 @@
      <string name="block_record_notification_title">Notifications hidden</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
-     <string name="bluetooth_connected">Connected</string>
+     <string name="bluetooth_connected">Savienots</string>
      <string name="bluetooth_connected_no_a2dp">Savienots (no media)</string>
      <string name="bluetooth_connected_no_headset">Savienots (no phone)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Savienots (no phone or media)</string>

@@ -20,7 +20,7 @@
      <string name="add_blacklist_dialog_title">Block this phone number?</string>
      <string name="add_connection_button">Pievienot savienojumu</string>
      <string name="add_contact_dlg_message_fmt">Vai pievienot \"%s\" kontaktpersonām?</string>
-     <string name="add_display_photo_entry">Add profile photo</string>
+     <string name="add_display_photo_entry">Pievienot profila bildi</string>
      <string name="add_field">Pievienot vēl vienu lauku</string>
      <string name="add_incall_show_entry">Pievienot video</string>
      <string name="add_new_account">Pievienot jaunu kontu</string>
@@ -38,7 +38,7 @@
      <string name="antispam_mark_my_contribution">Sharing flag info</string>
      <string name="antispam_provider_format">Identified by %s</string>
      <string name="attach_photo_dialog_title">Kontakta foto</string>
-     <string name="audio_chat">Voice chat</string>
+     <string name="audio_chat">Balss čats</string>
      <string name="auto_nickname">Auto</string>
      <string name="auto_set_nickname">Auto</string>
      <string name="back_view_description">Atgriezties</string>
@@ -175,7 +175,7 @@
      <string name="cloud_antispam_title">Caller ID</string>
      <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
      <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
-     <string name="cloud_state_loading">Just a sec…</string>
+     <string name="cloud_state_loading">Mirklīti…</string>
      <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
      <string name="cloud_state_syncing">Synced with Mi Cloud</string>
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -184,13 +184,9 @@
      <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
      <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
      <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
-     <string name="config_export_dir">/mnt/sdcard</string>
      <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
      <string name="config_export_file_prefix" />
      <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">v30_generic</string>
-     <string name="config_import_vcard_type">default</string>
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Clear call history?</string>
      <string name="confirm_delete_selected_all_call_logs">Clear call history?</string>
@@ -238,7 +234,7 @@ Contact cards are turned off"</string>
      <string name="contact_detail_profile_switch_on_subtitle">Tap to turn on contact cards</string>
      <string name="contact_detail_profile_switch_on_success_toast">Contact cards turned on</string>
      <string name="contact_directory_description">Katalogs %1$s</string>
-     <string name="contact_edit_save_error_empty">Contact is empty</string>
+     <string name="contact_edit_save_error_empty">Tukšs kontakts</string>
      <string name="contact_edit_title_edit">Rediģēt kontaktu</string>
      <string name="contact_edit_title_insert">Izveidot %s kontaktu</string>
      <string name="contact_edit_title_readonly">Tikai lasāms kontakts</string>
@@ -278,7 +274,6 @@ Contact cards are turned off"</string>
      <string name="data_left">Remaining data</string>
      <string name="data_unit_gb">GB</string>
      <string name="data_unit_mb">MB</string>
-     <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
      <string name="date_time_set">Set</string>
      <string name="date_year_toggle">Provide a year</string>
      <string name="default_ringtone">Noklusētais zvanatonis</string>
@@ -593,9 +588,6 @@ Iemesls: \"%s\""</string>
      <string name="login_ok">Sign in</string>
      <string name="low_memory_toast">"Can't use this feature due to low memory."</string>
      <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
-     <string name="lunar_calendar">农历</string>
-     <string name="lunar_leap">闰</string>
-     <string name="lunar_yue">月</string>
      <string name="make_primary">Atcerēties šo izvēli</string>
      <string name="map_custom">Skatīt adresi: %s</string>
      <string name="map_home">Skatīt mājas adresi</string>
@@ -754,17 +746,6 @@ Iemesls: \"%s\""</string>
      <string name="noContactsHelpTextForCreateShortcut">You don't have any contacts to display.</string>
      <string name="noContactsHelpTextWithSyncForCreateShortcut">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
      <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
-     <string name="noFavoritesHelpText">You don't have any favorites.
-
-To add a contact to your list of favorites:
-
-<li>Touch the <b>Contacts</b> tab
-</li> 
-<li>Touch the contact you want to add to your favorites
-</li> 
-<li>Touch the star next to the contact's name
-</li>
-</string>
      <string name="noGroups">No groups</string>
      <string name="noMatchingContacts">No matching contacts found.</string>
      <string name="noRecentContacts">No recent contacts</string>
@@ -1113,7 +1094,6 @@ To add a contact to your list of favorites:
      <string name="sms_work_pager">Sūtīt īsziņu uz darba peidžeru</string>
      <string name="social_widget_label">Kontaktpersona</string>
      <string name="social_widget_loading">Ielāde…</string>
-     <string name="solar_calendar">公历</string>
      <string name="splitConfirmation">This contact will be separated into multiple contacts.</string>
      <string name="splitConfirmation_title">Separate contact?</string>
      <string name="starredList">Izlase</string>
@@ -1208,7 +1188,7 @@ Choose one of the following options:"</string>
      <string name="voip_recommend_msg">Tap to use Mi Voice</string>
      <string name="voip_shortcut_name">Mi Voice</string>
      <string name="voip_video_description">VoIP video call</string>
-     <string name="websiteLabelsGroup">Website</string>
+     <string name="websiteLabelsGroup">Mājas pappa</string>
      <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Dzēst datus</string>
      <string name="yellowPageNavigationIconLabel">Yellow pages</string>
